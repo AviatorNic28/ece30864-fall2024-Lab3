@@ -1,1 +1,5 @@
-
+a.) Pros and Cons 
+Pro - Jira seems like when setup, would prove very beneficial to large corporate projects involving a lot of people
+Con - It adds several unneccesary barriers to do any given task, which makes the user interface extremely frustrating
+Pro - there are many apps and function integrations with Jira, so you can add it into existing project infrastructure if needed
+Con - The user interface is convoluted to impress share-holders and managers, with no semblance of ease-of-use for actual project development functions. Like this is made to make bosses happy and employees annoyed
